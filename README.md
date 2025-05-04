@@ -39,3 +39,6 @@ After merging the data, proceed to the modeling phase:
 ---
 
 ## 🗂 Directory Structure Overview
+
+-  experiements holds the runs and findings 
+-  code holds the files and preprocessing data except the FEMA data since the size exceeds the github limmits
