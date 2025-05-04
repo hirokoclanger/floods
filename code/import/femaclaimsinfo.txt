@@ -1,0 +1,2 @@
+The Claims data file is too big to upload to github.
+Please download it from https://www.fema.gov/openfema-data-page/fima-nfip-redacted-claims-v2 and place it into the imports folder.
